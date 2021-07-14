@@ -1,0 +1,73 @@
+id: mett-benchmark
+title: 'Benchmark'
+description: 'The updated version of our landmark micro expression training module. With it, you will improve your ability to spot micro expressions. This training is appropriate for those whose work requires them to evaluate truthfulness and detect deception, such as police and security personnel, as well as those in sales, education, and medical professions.'
+course: mett
+questions: 
+  -
+    start: '01aFEA.jpg'
+    end: '01bFEA.jpg'
+    expression: 'Fear'
+  -
+    start: '04aFEA.jpg'
+    end: '04bFEA.jpg'
+    expression: 'Fear'
+  -
+    start: '13aANG.jpg'
+    end: '13bANG.jpg'
+    expression: 'Anger'
+  -
+    start: '20aANG.jpg'
+    end: '20bANG.jpg'
+    expression: 'Anger'
+  -
+    start: '25aSAD.jpg'
+    end: '25bSAD.jpg'
+    expression: 'Sadness'
+  -
+    start: '36aSAD.jpg'
+    end: '36bSAD.jpg'
+    expression: 'Sadness'
+  -
+    start: '40aDIS.jpg'
+    end: '40bDIS.jpg'
+    expression: 'Digust'
+  -
+    start: '48aDIS.jpg'
+    end: '48bDIS.jpg'
+    expression: 'Digust'
+  -
+    start: "51aHAP.jpg"
+    end: "51bHAP.jpg"
+    expression: "Happiness"
+  -
+    start: '52aHAP.jpg'
+    end: "52bHAP.jpg"
+    expression: "Happiness"
+  - 
+    start: "64aSUR.jpg"
+    end: "64bSUR.jpg"
+    expression: "Surpirse"
+  -
+    start: "68aSUR.jpg"
+    end: "68bSUR.jpg"
+    expression: "Surprise"
+  -
+    start: "75aCON.jpg"
+    end: "75bCON.jpg"
+    expression: "Contempt"
+  -
+    start: "84aCON.jpg"
+    end: "84bCON.jpg"
+    expression: "Contempt"
+  - 
+    start: "METT Frontal Pretest_Image_A_Surprise_a.jpg"
+    end: "METT Frontal Pretest_Image_A_Surprise_b.jpg"
+    expression: "Surprise"
+  - 
+    start: "METT Frontal Pretest_Image_B_Contempt_a.jpg"
+    end: "METT Frontal Pretest_Image_B_Contempt_b.jpg"
+    expression: "Surprise"
+  - 
+    start: "METT Frontal Pretest_Image_C_Happy_a.jpg"
+    end: "METT Frontal Pretest_Image_C_Happy_b.jpg"
+    expression: "Happiness"

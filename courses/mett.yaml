@@ -1,0 +1,19 @@
+trainings:
+    - title: Benchmark
+      description: 
+      id: mett-benchmark
+    # - title: Training
+    #   description:
+    #   id: mett-training
+    # - title: Practice
+    #   description: 
+    #   id: mett-practice
+    # - title: Review
+    #   description:
+    #   id: mett-review
+    # - title: Final
+    #   description:
+    #   id: mett-final
+id: mett
+img: default.png
+title: Micro Expression Training Tools
